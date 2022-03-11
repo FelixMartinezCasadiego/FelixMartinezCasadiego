@@ -6,6 +6,5 @@
 
 #### I'm know about React Js, JavaScript, HTML, CSS, SCSS, SEO and i use bootstrap framework.
 
-- 🌱 I'm currently learning React JS
 - 📫 You can reach me in Felix.martinezcasadiego@gmail.com
 
